@@ -1,6 +1,6 @@
 #menu
 {
-	text-align: center;
+	margin-left:39%;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
@@ -21,6 +21,7 @@ div
 	margin: 0px;
 	float:right;
 	background-color: #FF7F50
+
 }
 p
 {	padding: 40px 10px 5px 10px; 
